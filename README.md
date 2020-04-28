@@ -7,4 +7,4 @@ In this repo you can download the python script and the classic IRIS.csv to test
 
 https://mlinitialanalysis.herokuapp.com
 
-![png](printscreen.png)
+![png](printscreen.PNG)
