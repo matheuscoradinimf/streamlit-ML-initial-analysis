@@ -1,5 +1,5 @@
 # streamlit-ML-initial-analysis
-Machine Learning Streamlit app deployed to heroku.
+Machine Learning Streamlit app deployed to Heroku.
 
 In this app you can upload a CSV file, pre-process your data, make some EDA, train/test split and make an initial prediction with Random Forest models.
 
